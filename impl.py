@@ -130,3 +130,4 @@ def get_winner(board):
         elif row == set('o'):
             return 'o'
     return None
+        board = ['x','x','o','','','','','','1']
